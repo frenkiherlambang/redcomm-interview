@@ -16,5 +16,10 @@
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.2"
   },
-  "dependencies": {  }
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.11",
+    "@splidejs/vue-splide": "^0.6.12",
+    "lodash": "^4.17.21",
+    "pinia": "^2.1.3"
+  }
 }
